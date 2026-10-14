@@ -1,0 +1,13 @@
+{
+  "name": "Turbo Taxi Rush — Crazy Arcade Driver",
+  "short_name": "Turbo Taxi",
+  "description": "Original crazy-taxi-style 3D arcade driver for phone and tablet.",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b1020",
+  "theme_color": "#ffd400",
+  "start_url": "./index.html",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
